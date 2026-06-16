@@ -65,6 +65,7 @@
 | [Flux](https://flux1.ai) | Latest open-source image model | Free (local) |
 | [Bing Image Creator](https://www.bing.com/images/create) | DALL-E 3 powered, free | Free |
 | [Canva AI](https://canva.com) | AI image generation inside Canva | Free / $13/mo |
+| [Seedream AI Studio](https://seedream4.video/) | ByteDance multi-model platform (Seedream 5.0/4.5/4.0), #1 AI Image Arena, 10 ref images + Kling 2.1 video | Free / paid |
 
 ## 🎬 Video Generation
 
