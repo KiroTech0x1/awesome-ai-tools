@@ -72,6 +72,7 @@
 |------|-------------|---------|
 | [Sora](https://openai.com/sora) | OpenAI's text-to-video (realistic) | $20/mo (ChatGPT Plus) |
 | [Runway](https://runwayml.com) | Professional AI video generation | Free / $12/mo |
+| [ImagineClip](https://imagineclip.com) | Avatar clips and social videos | Freemium |
 | [Pika](https://pika.art) | Fast AI video from text/image | Free / $8/mo |
 | [Kling AI](https://klingai.com) | High-quality video generation | Free / $5/mo |
 | [HeyGen](https://heygen.com) | AI avatar videos (talking head) | $24/mo |
