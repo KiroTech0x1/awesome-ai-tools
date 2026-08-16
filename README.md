@@ -78,6 +78,7 @@
 | [Synthesia](https://synthesia.io) | AI presenter videos for business | $22/mo |
 | [Luma Dream Machine](https://lumalabs.ai/dream-machine) | 3D-aware video generation | Free / $24/mo |
 | [InVideo AI](https://invideo.io) | Text-to-video with editing | Free / $25/mo |
+| [videos.social](https://videos.social/?utm_source=kirotech0x1-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) | Editable faceless video from text | 1 free render / $10+ |
 | [Veo](https://deepmind.google/technologies/veo) | Google's video generation model | Coming soon |
 | [Minimax (Hailuo)](https://hailuoai.video) | Free video generation | Free |
 
