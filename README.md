@@ -115,6 +115,7 @@
 
 | Tool | Description | Pricing |
 |------|-------------|---------|
+| [Agent QA](https://github.com/vostride/agent-qa) | Natural-language web, Android & iOS tests | Source-available (FSL-1.1-ALv2); no software fee for permitted use; provider costs separate |
 | [GitHub Copilot](https://github.com/features/copilot) | AI code completion in IDE | $10/mo |
 | [Cursor](https://cursor.sh) | AI-first code editor | Free / $20/mo |
 | [Replit AI](https://replit.com) | AI coding + instant deploy | Free / $25/mo |
