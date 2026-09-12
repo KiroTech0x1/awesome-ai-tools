@@ -295,6 +295,7 @@
 | [AgentGPT](https://agentgpt.reworkd.ai) | Browser-based AI agent | Free |
 | [SuperAGI](https://superagi.com) | Open-source agent framework | Free |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | Multi-agent software company | Free |
+| [Orkas](https://github.com/Orkas-AI/Orkas) | Open-source, local-first desktop AI workforce. | Open source; provider costs vary |
 
 ## 🌐 Browser Extensions
 
