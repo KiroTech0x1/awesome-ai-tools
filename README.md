@@ -80,6 +80,7 @@
 | [InVideo AI](https://invideo.io) | Text-to-video with editing | Free / $25/mo |
 | [Veo](https://deepmind.google/technologies/veo) | Google's video generation model | Coming soon |
 | [Minimax (Hailuo)](https://hailuoai.video) | Free video generation | Free |
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | Local-first video CLI/MCP for coding agents | Open source; optional paid APIs |
 
 ## 🎵 Music & Audio
 
