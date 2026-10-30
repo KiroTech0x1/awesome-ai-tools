@@ -16,6 +16,7 @@
 - [Chatbots & Assistants](#-chatbots--assistants)
 - [Image Generation](#-image-generation)
 - [Video Generation](#-video-generation)
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 - [Music & Audio](#-music--audio)
 - [Writing & Content](#-writing--content)
 - [Code & Development](#-code--development)
