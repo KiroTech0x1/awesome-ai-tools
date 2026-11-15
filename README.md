@@ -321,6 +321,7 @@
 | [Photomath](https://photomath.com) | iOS / Android | AI math solver | Free |
 | [Lensa](https://prisma-ai.com/lensa) | iOS / Android | AI photo editor | $4/mo |
 | [Remini](https://remini.ai) | iOS / Android | AI photo enhancer | Free / $5/mo |
+| [Sammi](https://sammiai.app/) | Android | Fictional-character chat and creative roleplay | Free download; in-app purchases |
 
 ---
 
